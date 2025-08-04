@@ -12,6 +12,14 @@ Designed with a professional **light blue and purple UI** for clarity and ease o
 - 🔍 **Search Teachers**: Instantly search batches by class name.
 - 🗑️ **Delete Batch**: Remove any scheduled batch.
 - 💾 **Local Storage**: Keeps data saved even after page refresh.
+- 🎨 **Modern UI**: Clean layout with light blue and purple theme.
 
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3 (custom styles with `Open Sans` font)
+- JavaScript (DOM manipulation + localStorage)
 
 
